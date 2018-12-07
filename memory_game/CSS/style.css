@@ -42,9 +42,18 @@ div {
 	margin: 28px autox;
 }
 
-main{
+main {
 	width: 850px
 	margin: 35px auto;
+}
+
+input {
+	background-color: #f15B31;
+	font-family: arial;
+	color: #FFFFFF;
+	padding: 10px;
+	margin: 35px auto;
+	text-transform: uppercase;
 }
 
 footer {
